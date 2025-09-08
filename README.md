@@ -51,3 +51,7 @@ To get started with this project, follow these steps:
 ## License
 
 This project is licensed under the MIT License.
+
+## Output
+<img width="1894" height="875" alt="Screenshot 2025-09-08 153327" src="https://github.com/user-attachments/assets/9d70ccc1-75ba-4285-a480-c308c688d3a5" />
+
